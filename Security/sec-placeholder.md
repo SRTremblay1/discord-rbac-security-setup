@@ -46,10 +46,10 @@ If your community is private and has vetting done before sending invites, you ma
 | **View Channels**        |   ❌/⚠️*   |    ✅    |  ✅   |   ✅    |       ⚠️        |
 | **Manage Channels**      |     ❌     |    ❌    |  ❌   |   ✅    |        ❌        |
 | **Manage Roles**         |     ❌     |    ❌    |  ❌   |   ✅    |        ❌        |
-| **Create Expressions**   |     ❌     |    -    |  -   |   ✅    |        ❌        |
-| **Manage Expressions**   |     ❌     |    ❌    |  -   |   ✅    |        ❌        |
-| **View Audit Log**       |     ❌     |    ❌    |  -   |   ✅    |        ❌        |
-| **View Server Insights** |     ❌     |    ❌    |  -   |   ✅    |        ❌        |
+| **Create Expressions**   |     ❌     |    -    |  -   |   -    |        ❌        |
+| **Manage Expressions**   |     ❌     |    ❌    |  -   |   -    |        ❌        |
+| **View Audit Log**       |     ❌     |    ❌    |  -   |   -    |        ❌        |
+| **View Server Insights** |     ❌     |    ❌    |  -   |   -    |        ❌        |
 | **Manage Webhooks**      |     ❌     |    ❌    |  ❌   |   ✅    |        ❌        |
 | **Manage Server**        |     ❌     |    ❌    |  ❌   |   ✅    |        ❌        |
 
