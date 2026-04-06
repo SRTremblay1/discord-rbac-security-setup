@@ -60,7 +60,7 @@ If your community is private and has vetting done before sending invites, you ma
 | Permission                            | @everyone | @member | @mod | @admin | Quarantine Role |
 | :------------------------------------ | :-------: | :-----: | :--: | :----: | :-------------: |
 | **Create Invite**                     |     ❌     |    ✅    |  ✅   |   ✅    |        ❌        |
-| **Change Nickname**                   |     ❌     |    -    |  -   |   -    |        ❌        |
+| **Change Nickname**                   |     ❌     |    ❌    |  -   |   -    |        ❌        |
 | **Manage Nicknames**                  |     ❌     |    ❌    |  ✅   |   ✅    |        ❌        |
 | **Kick, Approve, and Reject Members** |     ❌     |    ❌    |  ✅   |   ✅    |        ❌        |
 | **Ban Members**                       |     ❌     |    ❌    |  ✅   |   ✅    |        ❌        |
