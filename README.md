@@ -19,3 +19,7 @@ To translate enterprise security principles into a standardized template for lar
 ## 🛠️ Future Roadmap
 * [ ] Finalize the split between the Core Security Baseline and the Community Operations guide.
 * [ ] Develop a Python/Discord API script to automatically audit and apply these permission templates to a live server.
+
+## 📬 Contact & Collaboration
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-sam-r-tremblay)
