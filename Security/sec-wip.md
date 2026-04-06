@@ -48,7 +48,7 @@ If your community is private and has vetting done before sending invites, you ma
 | **Manage Roles**         |     ❌     |    ❌    |  ❌   |   ✅    |        ❌        |
 | **Create Expressions**   |     ❌     |    -    |  -   |   -    |        ❌        |
 | **Manage Expressions**   |     ❌     |    ❌    |  -   |   -    |        ❌        |
-| **View Audit Log**       |     ❌     |    ❌    |  -   |   -    |        ❌        |
+| **View Audit Log**       |     ❌     |    ❌    |  -   |   ✅    |        ❌        |
 | **View Server Insights** |     ❌     |    ❌    |  -   |   -    |        ❌        |
 | **Manage Webhooks**      |     ❌     |    ❌    |  ❌   |   ✅    |        ❌        |
 | **Manage Server**        |     ❌     |    ❌    |  ❌   |   ✅    |        ❌        |
@@ -72,20 +72,20 @@ Note: Nicknames can be used for homoglyph-based moderation evasion; by preventin
 
 | Permission                                  | @everyone | @member | @mod | @admin | Quarantine Role |
 | :------------------------------------------ | :-------: | :-----: | :--: | :----: | :-------------: |
-| **Send Messages and Create Posts**          |     ❌     |    -    |  -   |   -    |       -        |
-| **Send Messages in Threads and Posts**      |     ❌     |    -    |  -   |   -    |       -        |
-| **Create Public Threads**                   |     ❌     |    -    |  -   |   -    |       -       |
-| **Create Private Threads**                  |     ❌     |    -    |  -   |   -    |       -        |
+| **Send Messages and Create Posts**          |     ❌     |    -    |  -   |   ✅    |       -        |
+| **Send Messages in Threads and Posts**      |     ❌     |    -    |  -   |   ✅    |       -        |
+| **Create Public Threads**                   |     ❌     |    -    |  -   |   ✅    |       -       |
+| **Create Private Threads**                  |     ❌     |    -    |  -   |   ✅    |       -        |
 | **Embed Links**                             |     ❌     |    -    |  -   |   -    |        ❌        |
 | **Attach Files**                            |     ❌     |    -    |  -   |   -    |        ❌        |
 | **Add Reactions**                           |     ❌     |    -    |  -   |   -    |        -        |
 | **Use External Emoji**                      |     ❌     |    -    |  -   |   -    |        -        |
-| **Mention @everyone, @here, and All Roles** |     ❌     |    ❌    |  -   |   -    |        ❌        |
-| **Manage Messages**                         |     ❌     |    ❌    |  -   |   -    |        ❌        |
+| **Mention @everyone, @here, and All Roles** |     ❌     |    ❌    |  -   |   ✅    |        ❌        |
+| **Manage Messages**                         |     ❌     |    ❌    |  -   |   ✅    |        ❌        |
 | **Pin Messages**                            |     ❌     |    ❌    |  -   |   -    |                 |
-| **Bypass Slowmode**                         |     ❌     |    ❌    |  -   |   -    |        ❌        |
-| **Manage Threads and Posts**                |     ❌     |    ❌    |  -   |   -    |        ❌        |
-| **Read Message History**                    |   ❌/⚠️*   |    -    |  -   |   -    |        -        |
+| **Bypass Slowmode**                         |     ❌     |    ❌    |  -   |   ✅    |        ❌        |
+| **Manage Threads and Posts**                |     ❌     |    ❌    |  ✅   |   ✅    |        ❌        |
+| **Read Message History**                    |   ❌/⚠️*   |    -    |  ✅   |   ✅    |        -        |
 | **Send Text-to-Speech Messages**            |     ❌     |    -    |  -   |   -    |        -        |
 | **Send Voice Messages**                     |     ❌     |    -    |  -   |   -    |        -        |
 | **Create Polls**                            |     ❌     |    -    |  -   |   -    |        -        |
