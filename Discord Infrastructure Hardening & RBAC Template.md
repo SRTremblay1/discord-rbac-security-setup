@@ -30,6 +30,13 @@ This template is intended for public servers, where unknown users can freely com
 
 If your community is private and has vetting done before sending invites, you may at your discretion de-escalate the @member permissions to @everyone and not use a verification bot.
 
+> [!CAUTION]
+> **DO NOT ASSIGN THE MASTER ADMINISTRATOR PERMISSION TO ANY ROLE.** 
+> 
+> **Why:** The `Administrator` permission in Discord bypasses all channel-specific overrides and grants the user the ability to self-edit permissions, delete any channel, kick any user, and invite malicious bots. 
+> 1. To prevent catastrophic accidental configuration drift. 
+> 2. To isolate and limit the "blast radius" if a high-ranking staff account is compromised via session hijacking or social engineering. By manually assigning discrete permissions to the `@admin` role rather than flipping the > master switch, true separation of duties is maintained.
+
 ### **Legend:** 
 
 * ✅ = Permitted 
