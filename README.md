@@ -17,10 +17,12 @@ While the core of this project is tailored to strictly mitigate security threats
 To translate enterprise security principles into a standardized template for large, public-facing digital communities. 
 
 ## Future Roadmap
-* [ ] Finalize the split between the Core Security Baseline and the Community Operations guide.
-          - Security; In progress
-          - Community; standby
-* [ ] Develop a Python/Discord API script to automatically audit and apply these permission templates to a live server.
+* -- Finalize the split between the Core Security Baseline and the Community Operations guide. --
+          -- - Security; In progress --
+          -- - Community; standby --
+* Create a generator and questions to better tailor
+            - Create Discord servers with permissions baked in so users can leverage Discord's "Server Template" Function.
+* [ ] Develop a Discord API script to automatically audit and apply these permission templates to a live server.
 
 ## 📬 Contact & Collaboration
 
