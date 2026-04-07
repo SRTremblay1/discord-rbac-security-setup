@@ -35,7 +35,7 @@ If your community is private and has vetting done before sending invites, you ma
 * ✅ = Permitted 
 * ❌ = Denied 
 * ⚠️ = Restricted via Channel Overrides (Read-Only or Sandboxed) 
-*  - = Discretionary / Subject to Community Needs
+* "-" = Discretionary / Subject to Community Needs
 
 ### General Server Permissions
 
