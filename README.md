@@ -6,17 +6,17 @@ A reproducible, security-first architecture for Discord servers utilizing **Role
 
 While the core of this project is tailored to strictly mitigate security threats (like privilege escalation and supply chain attacks), the provided permission matrices offer a comprehensive baseline for daily community operations.
 
-## 🗂️ Project Structure
+## Project Structure
 
 * **`README.md`** - Project overview and quick start.
 * **`Discord Infrastructure Hardening & RBAC Template.md`** - The current "all" draft.
 * **`security_baseline.md`** - (WIP) The stripped-down, security-only matrix focusing purely on threat mitigation and infrastructure defense.
 * **`community_operations.md`** - (WIP) A complete suggestion for server roles, functional permissions, and maintaining Discord TOS compliance.
 
-## 🎯 Objective
+## Objective
 To translate enterprise security principles into a standardized template for large, public-facing digital communities. 
 
-## 🛠️ Future Roadmap
+## Future Roadmap
 * [ ] Finalize the split between the Core Security Baseline and the Community Operations guide.
           - Security; In progress
           - Community; standby
